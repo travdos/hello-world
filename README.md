@@ -1,2 +1,5 @@
 # hello-world
-just a repo
+
+hello,
+
+just  an exercise
